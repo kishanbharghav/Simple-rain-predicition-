@@ -10,3 +10,12 @@ Web-app look:
 
 
 ![Screenshot 2024-10-30 190417](https://github.com/user-attachments/assets/8680ae3f-5574-4f71-953d-99c660e5d080)
+
+Colors can be changbed:
+
+![Screenshot 2024-10-30 194718](https://github.com/user-attachments/assets/ec93d879-bf7f-41ff-a3d1-8a346951cdcf)
+
+
+![Screenshot 2024-10-30 194739](https://github.com/user-attachments/assets/515cf363-a9c6-430e-b602-7bce74fcef64)
+
+
