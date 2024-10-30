@@ -10,7 +10,7 @@ def index():
 
     if request.method == 'POST':
         city = request.form['city']
-        api_key = "2433a38bb716009ba0ef841a5198c766"  # Replace with your OpenWeather API key
+        api_key = ""  # Replace with your OpenWeather API key
         url = f"http://api.openweathermap.org/data/2.5/weather?q={city}&appid={api_key}&units=metric"
 
         try:
