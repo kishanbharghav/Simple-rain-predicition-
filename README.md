@@ -2,8 +2,10 @@
 Simple rain predicitng python web app using Openweather API
 This is a project made in flask module of python.
 Python latest version and flask module are mainly needed.
-other modules can be installed if reported missing.
+other modules like requests can be installed if reported missing.
 Download the weather_app file and run the app.py using flask module
+
+open cmd in the weather_app directory and run cmd python app.py
 
 Web-app look:
 
