@@ -7,7 +7,9 @@
 
 body {
     font-family: 'LCDMono2', sans-serif;
-    background-color: #2a1ca8;
+    background-image: url('/static/images/your-background.jpg');
+    background-size: cover;
+    background-position: center;
     color: #333;
     display: flex;
     justify-content: center;
@@ -16,14 +18,18 @@ body {
     margin: 0;
 }
 
+
 .container {
     text-align: center;
     background: rgb(230, 232, 234);
     padding: 40px;
     border-radius: 50px;
-    box-shadow: 0 0 100px rgba(221, 11, 11, 0.9);
+    box-shadow: 0 0 100px rgba(247, 3, 3, 0.9);
     width: 400px;
 }
+
+/* Other CSS remains the same */
+
 
 h1 {
     font-size: 2.5em;
