@@ -1,4 +1,4 @@
-# Simple-rain-predicition-
+# Simple-rain-predicition
 Simple rain predicitng python web app using Openweather API
 This is a project made in flask module of python.
 Python latest version and flask module are mainly needed.
